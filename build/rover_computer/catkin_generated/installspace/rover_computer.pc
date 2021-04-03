@@ -1,0 +1,8 @@
+prefix=/home/jakub/Documents/ros_scorpio_ws/install
+
+Name: rover_computer
+Description: Description of rover_computer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
